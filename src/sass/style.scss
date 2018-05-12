@@ -1,0 +1,10 @@
+$bgColor: #cccccc;
+$mainColor: #fadddd;
+
+body {
+    background: $bgColor;
+
+    .navBar {
+        border: 1px solid $mainColor;
+    }
+}
